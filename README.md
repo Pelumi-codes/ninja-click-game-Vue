@@ -1,3 +1,4 @@
+<a href="https://suspicious-bartik-d618e0.netlify.app/">Link to code</a>
 # vue3
 
 ## Project setup
